@@ -27,7 +27,7 @@ public class Main {
    System.out.println("please give a value 2");
    double value2 = scan.nextDouble();
    System.out.println("Alan:" + area(value1,value2));
-   System.out.println("------------------");
+   System.out.println("-------------------");
    System.out.println("please give a value for radius");
    double value3 = scan.nextDouble();
    System.out.println(area(value3));
